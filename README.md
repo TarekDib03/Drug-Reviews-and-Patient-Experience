@@ -120,6 +120,5 @@ Patient experiences naturally segment into localized (dermatological side effect
 - Pandas/NumPy
 - Scikit-learn
 - NLP (TF-IDF, SVD)
-- Matplotlib/Seaborn
 - Seabon, Matplotlib
 >>>>>>> 26a3e45b14d3155d72f480f79ce8b067cb5488de
