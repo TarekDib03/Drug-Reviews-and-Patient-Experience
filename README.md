@@ -1,11 +1,8 @@
-
-<<<<<<< HEAD
 ## 🧠 Drug Reviews NLP & Clustering Analysis
 
 Turning unstructured patient reviews into actionable healthcare insights using NLP and Machine Learning.
 =======
 ## Drug Review Clustering & Patient Experience Analysis
->>>>>>> 26a3e45b14d3155d72f480f79ce8b067cb5488de
 
 📌 **Overview**
 
@@ -198,17 +195,14 @@ Patients often tolerate side effects if treatment is effective
 💡 **Key Takeaway**
 
 Patient treatment experiences are best understood as a continuum, where clustering reveals meaningful patterns of variation rather than rigid segments.
->>>>>>> 26a3e45b14d3155d72f480f79ce8b067cb5488de
 
 🛠️ **Tech Stack**
 
 - Python
-<<<<<<< HEAD
 - Pandas/NumPy
 - Scikit-learn
 - NLP (TF-IDF, SVD)
 - Matplotlib/Seaborn
-=======
 - Pandas, NumPy
 - Scikit-learn
 - NLTK
